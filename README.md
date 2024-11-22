@@ -1,4 +1,4 @@
-# 🏢 Employee Management System  
+# 🏢 Employee Management System 
 
 ### 🎯 Minor Project  
 
@@ -40,4 +40,14 @@ This system is ideal for small and medium-sized organizations to manage their em
 ## 8. ✅ Conclusion  
 The *Employee Management System* developed using **Java Swing**, **AWT**, and **MySQL** offers a comprehensive solution for managing employee data. It ensures efficient operations, reduces manual effort, and saves time for HR departments. This project also provides valuable experience in Java GUI development and database integration, making it a significant addition to any organization's management systems.  
 
+## 🧑‍💼 Employee Management Window  
+
+This window serves as the core interface for managing employee data. Administrators can perform various operations such as:  
+- 🆕 **Adding new employees**  
+- ✏️ **Editing employee details**  
+- 🗑️ **Deleting employee records**  
+- 🔍 **Viewing employee information**  
+
+### 🖼️ Screenshot  
+![3](https://github.com/user-attachments/assets/9499bdad-c66a-402b-ba77-9f413f94af27)
 ---
